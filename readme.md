@@ -10,4 +10,4 @@ This project is done when learning a JS course.
   - HTML
   - CSS
 
-#  [Breakdance](http://breakdance.io) - Live Website Link
+#  [Forkify](https://forkify-js-course.herokuapp.com/) - Live Website Link
